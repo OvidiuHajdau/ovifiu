@@ -1,0 +1,54 @@
+function sayarbuz(name) {
+    console.log("Salamaleicum, " + name);
+}
+
+    sayarbuz("ahmed")
+    sayarbuz("jana")
+    
+    
+    function addNubers(a = 0, b = 0) {
+        console.log(a + b);
+    }
+    addNubers(5, 4
+
+
+function sayarbuz(name) {
+    console.log("Salamaleicum, " + name);
+}
+
+    sayarbuz("ahmed")
+    sayarbuz("jana")
+    
+    
+  function sayarbuz(name) {
+    console.log("Salamaleicum, " + name);
+}
+
+    sayarbuz("ahmed")
+    sayarbuz("jana")
+    
+    
+    function addNubers(a = 0, b = 0) {
+        console.log(a * b);
+    }
+
+    addNubers(4 , 4);
+    
+    
+    
+function ovidiupro(number) {
+    return number * number;
+
+}
+let result = ovidiupro(10);
+console.log(result);4545.545);
+
+
+
+
+
+let fruits =["APPLE", "BANANA", "CHERRY", "DATE"];
+
+for (let i = 0; i < fruits .length; i++) {
+    console.log(fruits[i]);
+}
