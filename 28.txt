@@ -1,0 +1,28 @@
+let person = {
+    firstName: "Ovidiu",
+    lastName: "Hajdau",
+    age : 666
+}
+console.log (person.firstName)
+console.log (person.lastName)
+console.log (person.age)
+
+
+
+
+
+
+
+
+let person = {
+    firstName: "Ovidiu",
+    lastName: "Hajdau",
+    age: 14,
+    
+    sayHello: function() {
+        console.log(`Hello, my name is ${this.firstName} ${this.lastName}.`);
+    }
+};
+
+// Call the sayHello method
+person.sayHello();
